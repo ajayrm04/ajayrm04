@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,firebase,flask,kotlin,androidstudio,tensorflow,opencv,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,flask,androidstudio,git,github,vscode" />
 </p>
 
 ## 📌 About Me
