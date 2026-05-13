@@ -16,9 +16,4 @@
 🌱 Exploring Machine Learning and Advanced Backend  
 ⚡ Love turning ideas into real applications  
 
-## 📫 Connect With Me
-
-📧 your-email@example.com  
-💻 GitHub: https://github.com/yourusername  
-
 ⭐️ From AjayReddy
